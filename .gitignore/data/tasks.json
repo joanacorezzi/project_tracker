@@ -1,9 +1,0 @@
-[
-    {
-        "id": 1,
-        "title": "Implement add-task",
-        "status": "complete",
-        "assigned_to": "Alex",
-        "project_id": 1
-    }
-]
