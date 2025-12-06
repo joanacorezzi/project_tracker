@@ -1,5 +1,6 @@
 # Simple Project Management CLI 
-This is a small command-line project management tool written in Python.
+This project was created for a Python class lab assignment.
+
 
 - Python classes and objects (OOP)
 - File I/O with JSON
