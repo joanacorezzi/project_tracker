@@ -1,7 +1,6 @@
 # Simple Project Management CLI 
 This project was created for a Python class lab assignment.
 
-
 - Python classes and objects (OOP)
 - File I/O with JSON
 - Command-Line Interface (CLI) with `argparse`
